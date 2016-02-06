@@ -1,0 +1,10 @@
+### SBT ###
+target/
+recitations/
+submission/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
